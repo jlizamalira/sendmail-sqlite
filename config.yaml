@@ -1,0 +1,5 @@
+database: "base.db"
+server:   "smtp.gmail.com"
+port:     587
+email:    "youruser@gmail.com"
+password: "password"
